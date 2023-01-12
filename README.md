@@ -5,5 +5,6 @@ I utilized this implementation to tackle a work problem and solidify some C++ kn
 
 Results from the analysis I applied this to are used prolifically in our work division. Those results are not shared.
 
-Thanks, 
-\nJames
+Thanks,
+
+James
