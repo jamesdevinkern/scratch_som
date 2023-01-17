@@ -6,3 +6,5 @@ I utilized this implementation for some analysis at work and to solidify some C+
 Thanks,
 
 James
+
+![](https://github.com/jamesdevinkern/scratch_som/blob/main/lib/example_som.gif)
